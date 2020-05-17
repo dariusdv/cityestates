@@ -1,9 +1,9 @@
 # cityestates
 \#playground 
 
-Real estate application
+##Real estate application
 
-Technologies used:
+###Technologies used:
  - Django framework
  - PostgreSQL
  - Bootstrap 4
@@ -14,7 +14,7 @@ Technologies used:
 
  Deployed with Gunicorn and Nginx.
 
- ## Run server
+### Run server
 Activate virtual environment.
 
 ```bash
