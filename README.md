@@ -1,9 +1,9 @@
 # cityestates
 \#playground 
 
-##Real estate application
+## Real estate application
 
-###Technologies used:
+### Technologies used:
  - Django framework
  - PostgreSQL
  - Bootstrap 4
