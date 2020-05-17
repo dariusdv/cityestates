@@ -10,7 +10,7 @@
   "license": "MIT",
   "dependencies": {
     "node-sass": "^4.9.3",
-    "tar": ">=2.2.2",
+    "tar": ">=4.4.2",
     "lodash": ">=4.17.12",
     "fstream": ">=1.0.12",
     "lodash.mergewith": ">=4.6.2",
