@@ -1,6 +1,8 @@
 # cityestates
+\#playground 
 
-Playground. Real estate application.
+Real estate application
+
 Technologies used:
  - Django framework
  - PostgreSQL
